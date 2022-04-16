@@ -1,0 +1,66 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body {
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+    background-color: #eaeaea;
+}
+/* SUBSCRIBE ===> https://www.youtube.com/channel/UCzWS-AiirxpTDq_AGSg9Fhg */
+/* SUBSCRIBE ===> https://www.youtube.com/channel/UCzWS-AiirxpTDq_AGSg9Fhg */
+/* SUBSCRIBE ===> https://www.youtube.com/channel/UCzWS-AiirxpTDq_AGSg9Fhg */
+form {
+    background-color: #fff;
+    box-shadow: 0 0 .5rem rgba(0, 0, 0, .3);
+    padding: 1rem;
+    border-radius: .5rem;
+}
+legend {
+    font-weight: 600;
+    font-size: 1.7rem;
+    text-align: center;
+}
+.form-group {
+    display: flex;
+    align-items: center;
+    width: clamp(270px, 95vw, 35px);
+    margin-top: 1rem;
+}
+.form-group input,
+button {
+    width: 100%;
+    padding: .5rem 1rem;
+    border: 1px solid #a8a8a8;
+    border-radius: .5rem;
+    outline: none;
+    font-size: 1rem;
+}
+
+button {
+    cursor: pointer;
+    background-color: #ff1b1b;
+    color: #fff;
+    border: none;
+    margin-top: 1rem;
+    transition: 200ms ease-in-out background-color;
+}
+button:hover {
+    background-color: #c40000;
+}
+button:active {
+    transform: scale(.95);
+}
+.line {
+    width: 20%;
+    height: 2px;
+    background-color: #ff1b1b;
+    margin: 0.5rem auto 1rem auto;
+}
+/* SUBSCRIBE ===> https://www.youtube.com/channel/UCzWS-AiirxpTDq_AGSg9Fhg */
+/* SUBSCRIBE ===> https://www.youtube.com/channel/UCzWS-AiirxpTDq_AGSg9Fhg */
+/* SUBSCRIBE ===> https://www.youtube.com/channel/UCzWS-AiirxpTDq_AGSg9Fhg */
